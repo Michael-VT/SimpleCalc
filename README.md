@@ -1,6 +1,8 @@
 # SimpleCalc
 
-##Калькулятор в Qt Creator. Как можно быстро создать проект в Qt
+## Калькулятор в Qt Creator. 
+## Как можно быстро создать проект в Qt
+
 Как то попросил знакомый, как быстро можно начать писать в Qt Creator.
 ---
 
@@ -13,9 +15,13 @@
 Открываем Qt Creator и в нем создаем новый проект Приложение Qt Widget.
 ---
 
-А там подправил всего три файла и в результате такой себе вычислитель
+А там подправил всего три файла (main.cpp, widget.cpp, widget.h) и в результате такой себе вычислитель!
+---
+
 <img src="SimpleCalc.png" width="300" style="float:right"/>
 <img src="CalculatorSample-300x281.png" width="300" style="float:right"/>
+---
+
 Весь проект (копия) на <a href = "Bhttps://github.com/Michael-VT/zNunits">GitHU</a>
 ---
 
